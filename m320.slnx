@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/D1/">
+    <Project Path="D1/Bank/Bank.csproj" />
+    <Project Path="D1/Heating/Heating.csproj" />
+  </Folder>
+  <Folder Name="/V1/">
+    <Project Path="V1/EmployeeManagement/EmployeeManagement.csproj" />
+  </Folder>
+</Solution>
